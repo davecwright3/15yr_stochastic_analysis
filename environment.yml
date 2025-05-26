@@ -1,0 +1,17 @@
+name: 15yr-tutorial 
+channels:
+  - conda-forge
+dependencies:
+  - python<3.13
+  - jupyterlab
+  - matplotlib
+  - jupyter_server
+  - numpy
+  - mystmd
+  - enterprise_extensions
+  - la_forge
+  - h5pulsar
+  - jupyterlab
+  - pyarrow
+  - pytables
+  - seaborn
