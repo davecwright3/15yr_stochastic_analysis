@@ -154,3 +154,6 @@ cython_debug/
 *.tar.gz
 
 *chains
+
+# MyST build outputs
+_build

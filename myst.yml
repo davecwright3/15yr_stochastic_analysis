@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d0b50626-c3dc-4c5a-b961-4d6b7ac68ef3
+  title: NANOGrav 15yr Analysis Tutorials
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/davecwright3/15yr_stochastic_analysis
+  jupyter: true
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+  #  favicon: favicon.ico
+    logo: nanograv.png

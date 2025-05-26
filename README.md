@@ -1,4 +1,7 @@
-# NANOGrav_15yr_tutorial <img align="right" width="150" height="100" src="https://github.com/nanograv/12p5yr_stochastic_analysis/blob/master/nanograv.png?raw=true">
+# NANOGrav_15yr_tutorial 
+
+<img align="right" width="150" height="100" src="https://github.com/nanograv/12p5yr_stochastic_analysis/blob/master/nanograv.png?raw=true">
+
 ## Tutorial to go with the [15 year isotropic GWB analysis](https://arxiv.org/abs/2306.16213)
 
 [![Generic badge](https://img.shields.io/badge/Created%20by-NANOGrav-red)](http://nanograv.org/)
